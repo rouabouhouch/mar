@@ -1,0 +1,10 @@
+/*if (event.key.keysym.sym==SDLK_a) // Regarde si le scancode W est enfoncé (Z sous un azerty)
+                SDL_Log("Scancode a"); // Affiche un message
+                joueur.x_j=joueur.x_j+100;
+            }*/
+            /* if(event.key.keysym.sym==SDLK_f)
+             {
+                 joueur.x_j=joueur.x_j+10 ;
+             }
+            if(event.type==SDL_QUIT)
+                isrunning= false;*/
